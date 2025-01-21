@@ -40,4 +40,4 @@ Virtual Reality and Gaming: NST aids in generating unique textures and environme
 
 Recent advancements have addressed some of the initial challenges associated with NST, such as high computational demands and the need for prolonged processing times. Techniques like feed-forward networks have been developed to produce stylized images in real-time after a single forward pass through the network. Additionally, methods have been proposed to allow for arbitrary style transfer without retraining the model for each new style, enhancing the flexibility and applicability of NST.
 
-#OUTPUT : 
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/64576c64-1563-48da-9285-1b0cb2faefb2)
